@@ -1,0 +1,17 @@
+{
+  "name": "virtual-herbal-garden",
+  "version": "1.0.0",
+  "description": "Virtual Herbal Garden for Skin Issues",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
